@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="assets/Github banner-2.svg" alt="Banner with the name Hey! I'm Ayla on it and > Full Stack Developer underneath" width=100%/>
+    <img src="assets/Github banner-3.svg" alt="Banner with the name Hey! I'm Ayla on it and > Full Stack Developer underneath" width=100%/>
 </p>
 
 <p>
@@ -57,15 +57,25 @@
 
 <br>
 
-If you want check out my work it might be nice to first understand how I organise my repos. When looking throuhg my repos you'll see they all have a prefix. I use these prefixes to indicate the status of my projects. You can find what each of them means here:
+If you want check out my work it might be nice to first understand how I
+organise my repos. When looking throuhg my repos you'll see they all have a
+prefix. I use these prefixes to indicate the status of my projects. You can find
+what each of them means here:
 
-- **`wip-` (Work in Progress)**  
-  Active projects that I'm currently working on. These are not really functional yet. Eventually, though, they will get the `stable-` prefix.
+- **`wip-` (Work in Progress)**\
+  Active projects that I'm currently working on. These are not really functional
+  yet. Eventually, though, they will get the `stable-` prefix.
 
-- **`test-` (Experimentation)**  
-  Small projects where I explore ideas, tools, or concepts. These are mainly projects for learning and usually don't really have a defined purpose. However, they can evolve into a more serious project, which means it will transition into a `wip-` and later a `stable-`.
+- **`test-` (Experimentation)**\
+  Small projects where I explore ideas, tools, or concepts. These are mainly
+  projects for learning and usually don't really have a defined purpose.
+  However, they can evolve into a more serious project, which means it will
+  transition into a `wip-` and later a `stable-`.
 
-- **`stable-` (Stable Projects)**  
-  Projects that have a working foundation and achieve their core goal. To be clear, I don't consider these "finished" projects because I can always come back and add new things. The idea is just that the main functionality is complete and usable.
+- **`stable-` (Stable Projects)**\
+  Projects that have a working foundation and achieve their core goal. To be
+  clear, I don't consider these "finished" projects because I can always come
+  back and add new things. The idea is just that the main functionality is
+  complete and usable.
 
 </details>
